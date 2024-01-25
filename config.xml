@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>tvstotalproducts</name>
+	<displayName><![CDATA[Tvs Total Product Getter]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[allow you to have total_product and total_product_wt on order-confirmation page]]></description>
+	<author><![CDATA[tvs teams]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
